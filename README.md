@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/nigopal/mlops_sandbox/_apis/build/status/ngopal.pipelines-java?branchName=master)](https://dev.azure.com/nigopal/mlops_sandbox/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
